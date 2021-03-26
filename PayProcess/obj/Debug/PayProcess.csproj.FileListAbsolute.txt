@@ -1,0 +1,170 @@
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\PayProcess.dll.config
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\PayProcess.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\PayProcess.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Antlr3.Runtime.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\AutoMapper.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\EntityFramework.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\EntityFramework.SqlServer.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Data.Edm.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Data.OData.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Web.Infrastructure.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\MySql.Data.Entity.EF6.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Newtonsoft.Json.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Net.Http.Formatting.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Spatial.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.ValueTuple.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Helpers.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.OData.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.Tracing.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.WebHost.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Mvc.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Optimization.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Razor.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.Deployment.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.Razor.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\WebGrease.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\AutoMapper.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\AutoMapper.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\EntityFramework.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\EntityFramework.SqlServer.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.ValueTuple.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Newtonsoft.Json.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Net.Http.Formatting.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Helpers.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.WebHost.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Mvc.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Razor.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.Deployment.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.WebPages.Razor.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.Tracing.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Web.Http.OData.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Data.Edm.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\Microsoft.Data.OData.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\System.Spatial.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\de\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\es\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\it\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\de\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\es\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\fr\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\it\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ja\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ko\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ru\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\de\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\es\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\fr\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\it\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ja\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ko\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\ru\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hans\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\bin\zh-Hant\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\obj\Debug\PayProcess.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayProcess\PayProcess\obj\Debug\PayProcess.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\PayProcess.dll.config
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\PayProcess.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\PayProcess.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Antlr3.Runtime.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\AutoMapper.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\EntityFramework.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\EntityFramework.SqlServer.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Data.Edm.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Data.OData.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Extensions.DependencyModel.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Web.Infrastructure.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\MySql.Data.Entity.EF6.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Newtonsoft.Json.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\nunit.framework.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Net.Http.Formatting.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Spatial.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.ValueTuple.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Helpers.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.OData.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.Tracing.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.WebHost.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Mvc.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Optimization.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Razor.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.Deployment.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.Razor.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Unity.Abstractions.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Unity.Container.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Unity.WebApi.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\WebGrease.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\AutoMapper.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\AutoMapper.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\EntityFramework.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\EntityFramework.SqlServer.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Newtonsoft.Json.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\nunit.framework.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Net.Http.Formatting.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.ValueTuple.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.WebHost.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Helpers.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Mvc.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Razor.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.Deployment.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.WebPages.Razor.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.Tracing.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Web.Http.OData.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Data.Edm.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Microsoft.Data.OData.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\System.Spatial.xml
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Unity.Abstractions.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\Unity.Container.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\de\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\es\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\it\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\de\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\es\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\fr\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\it\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ja\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ko\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ru\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\de\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\es\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\fr\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\it\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ja\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ko\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\ru\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hans\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\bin\zh-Hant\System.Spatial.resources.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\obj\Debug\PayProcess.dll
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\obj\Debug\PayProcess.pdb
+E:\E Drive\Mata Durga\BACKUP-New folder (2)\PayBAckup\New folder\PayProcess\PayProcess\obj\Debug\PayProcess.csprojResolveAssemblyReference.cache

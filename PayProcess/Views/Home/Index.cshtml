@@ -1,0 +1,173 @@
+﻿@{
+    ViewBag.Title = "Payment";
+}
+<html>
+<head>
+    <title>Payment</title>    
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.1/angular-material.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-aria.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-messages.min.js"></script>
+    <!-- Angular Material Javascript now available via Google CDN; version 1.2.1 used here -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.1/angular-material.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-utils/0.1.1/angular-ui-utils.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        .txtbox {
+            margin: 0px;
+            margin-top: 5px;
+            width: 100%;
+        }
+
+        .md-datepicker-calendar-pane {
+            z-index: 2000;
+        }
+    </style>
+</head>
+<body ng-app="payApp">
+    <div id="inputContainer" ng-controller="inputController as ctrl" ng-cloak>
+        <md-content>
+            <form name="projectForm" novalidate id="projectForm" method="POST" action="home" ng-submit="$scope.projectForm.$valid">
+                <div flex-offset="35" flex="30" style="background-color:#3f51b5; color: white; text-align: center; font-family: 'Arial Rounded MT'; height: 46px; line-height: 43px; font-size: x-large;margin-top:150px; ">
+                    Payment Process
+                </div>
+                <md-card flex-offset="35" flex="30" style="border: 1px solid black; padding: 16px;margin-top:0px;" layout-align="center center">
+                    <div layout="column" style="width:100%;">
+                        <md-input-container class="md-block txtbox">
+                            <label>Card Holder`s Name</label>
+                            <input name="CardHolder" ng-model="project.cardholder" required>
+                            <div ng-messages="projectForm.cardholder.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+                        <md-input-container class="md-block txtbox">
+                            <label>Card Number</label>
+                            <input required name="CreditCardNumber" ng-model="project.cardNumber">
+                            <div ng-messages="projectForm.cardNumber.$error">
+                                <div ng-message="required">This is required.</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                    <div layout="row" layout-xs="column">
+                        <div flex="50" style="margin-top:5px" layout-align="left center">
+                            <md-input-container style="margin: 0px; margin-left: -25px; display: inline-flex;">
+                                <md-datepicker ng-model="project.expDate" id="expDate" aria-label="Expiration Date" placeholder="Expiration Date" ng-change="ondatechanged()" required>
+                                    <div class="errors" ng-messages="projectForm.expDate.$error">
+                                        <div ng-message="required">This is required.</div>
+                                    </div>
+                                </md-datepicker>
+                            </md-input-container>
+                        </div>
+                        <input type="hidden" name="ExpirationDate" ng-model="project.aexpDate" value="{{project.aexpDate}}" />
+                        <div flex="50">
+                            <md-input-container class="md-block txtbox">
+                                <label>Security Code</label>
+                                <input required name="SecurityCode" ng-model="project.securityCode">
+                                <div ng-messages="projectForm.securityCode.$error">
+                                    <div ng-message="required">This is required.</div>
+                                </div>
+                            </md-input-container>
+                        </div>
+                    </div>
+                    <md-input-container class="md-block txtbox">
+                        <label>Amount</label>
+                        <input required name="Amount" ng-model="project.amt">
+                        <div ng-messages="projectForm.amt.$error">
+                            <div ng-message="required">This is required.</div>
+                        </div>
+                    </md-input-container>
+
+                    <div layout="row" layout-xs="column" style="width:100%;">
+                        <div flex="33" style="text-align:left;">
+                            <md-button class="md-raised md-primary" ng-click="btnCancel()">Cancel</md-button>
+                        </div>
+                        <div flex="33">
+
+                        </div>
+                        <div flex="33" style="text-align:right;">
+                            <md-button type="button" class="md-raised md-primary" ng-click="btnSubmit($event)">Submit</md-button>
+                        </div>
+                    </div>
+                    <div>
+                        @TempData["msgDATA"]
+                    </div>
+                </md-card>
+            </form>
+        </md-content>
+    </div>
+</body>
+</html>
+
+
+<script>
+    $(document).ready(function () {
+        $("#button").click(function () {
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:3884/api/values",
+                data: { "CreditCardNumber": "4024007103939509", "CardHolder": "Manas Singh-3", "ExpirationDate": "2021-03-22", "SecurityCode": "789", "Amount": "520" },
+                success: function (data) {
+                    alert(data);
+                }
+            })
+        });
+    });
+
+    var vdtl = "0";
+    angular.module('payApp', ['ngMaterial']).controller('inputController', inputController).config(function ($mdThemingProvider, $mdDateLocaleProvider) {
+        $mdDateLocaleProvider.formatDate = function (date) {
+            return date ? moment(date).format('DD-MM-YYYY') : '';
+        };
+        $mdDateLocaleProvider.parseDate = function (dateString) {
+            var m = moment(dateString, 'DD-MM-YYYY', true);
+            return m.isValid() ? m.toDate() : new Date(NaN);
+        };
+        $mdDateLocaleProvider.isDateComplete = function (dateString) {
+            dateString = dateString.trim();
+            // Look for two chunks of content (either numbers or text) separated by delimiters.
+            var re = /^(([a-zA-Z]{3,}|[0-9]{1,4})([ .,]+|[/-]))([a-zA-Z]{3,}|[0-9]{1,4})/;
+            return re.test(dateString);
+        };
+        $mdThemingProvider.theme('default')
+          .primaryPalette('indigo')
+          .accentPalette('indigo');
+    });
+
+    function inputController($scope) {
+
+
+        $scope.ondatechanged = function () {
+            var rrf = $scope.project;
+            var mnt = parseInt(rrf.expDate.getMonth()) + 1;
+            var dt = rrf.expDate.getDate() + "-" + mnt + "-" + rrf.expDate.getFullYear();
+            rrf.aexpDate = dt;
+            vdtl = dt;
+        };
+        $scope.btnSubmit = function (e) {
+         //   alert($scope.projectForm.$valid);
+            if ($scope.projectForm.$valid) {
+                $("form").submit();
+            }
+            if (vdtl==0)
+            {
+               var elm = angular.element(document.querySelector("#expDate"));
+               elm.focus();
+               e.preventDefault();
+            }
+        }
+        $scope.btnCancel = function () {
+            $scope.project = {
+                cardholder:"",
+                cardNumber:"",
+                expDate:"",
+                aexpDate:"",
+                amt:""
+            }
+            vdtl=0;
+        }
+    }
+</script>

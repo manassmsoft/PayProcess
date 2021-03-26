@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayProcess", "PayProcess\PayProcess.csproj", "{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayProcess.Tests", "PayProcess.Tests\PayProcess.Tests.csproj", "{1F7F4A1E-7ABB-462C-AB9D-4BE50F5CA20E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F} = {51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FEBC10-F2F7-46F7-9B5B-D1505991CE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7F4A1E-7ABB-462C-AB9D-4BE50F5CA20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7F4A1E-7ABB-462C-AB9D-4BE50F5CA20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7F4A1E-7ABB-462C-AB9D-4BE50F5CA20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7F4A1E-7ABB-462C-AB9D-4BE50F5CA20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
